@@ -1,0 +1,17 @@
+G04 start of page 7 for group -4062 idx -4062 *
+G04 Title: (unknown), soldermask *
+G04 Creator: pcb 20140316 *
+G04 CreationDate: Wed 05 Dec 2018 13:28:39 GMT UTC *
+G04 For: david *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 5803.15 7874.02 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNBOTTOMMASK*%
+%ADD23R,0.0815X0.0815*%
+G54D23*X125984Y782677D02*Y770867D01*
+X110236Y782677D02*Y770867D01*
+Y756299D02*Y744489D01*
+X125984Y756299D02*Y744489D01*
+M02*

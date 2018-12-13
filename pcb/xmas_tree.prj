@@ -1,0 +1,3 @@
+schematics xmas_tree01.sch 
+output-name xmas_tree
+elements-dir /home/david/elect/packages
